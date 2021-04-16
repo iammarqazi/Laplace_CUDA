@@ -16,3 +16,7 @@ __INSTRUCTIONS TO RUN THIS FILE__:
 <img width="410" alt="Screenshot 2021-04-16 at 8 45 19 PM" src="https://user-images.githubusercontent.com/57368390/115048201-f08f5200-9ef6-11eb-879f-03cec8829b7f.png">
 
 
+__Final Temperature plot__ : 
+![ Temperature plot ](/Users/ammarqazi/Downloads/Temperature plot.png "Temperature contour plot")
+
+
