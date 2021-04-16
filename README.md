@@ -17,6 +17,7 @@ __INSTRUCTIONS TO RUN THIS FILE__:
 
 
 __Final Temperature plot__ : 
+
 ![Temperature plot](https://user-images.githubusercontent.com/57368390/115049277-2d0f7d80-9ef8-11eb-902d-13373b36f2d2.png)
 
 
